@@ -66,3 +66,7 @@ which will sort the list based upon the rankings of the players.
 We can use use both of them to solve many comparing-related problems.
 
 There are examples in the `comparator` and `compareTo` folders for each type respectively.
+
+# Credits
+Learnt information from the spring boot website:
+https://www.baeldung.com/java-comparator-comparable#comparator
